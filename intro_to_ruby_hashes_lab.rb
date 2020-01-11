@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- thishash={88 "Dale Earnhardt Jr"}
+ thishash={driver: "Dale Earnhardt Jr"}
 end
 
 def pioneer
