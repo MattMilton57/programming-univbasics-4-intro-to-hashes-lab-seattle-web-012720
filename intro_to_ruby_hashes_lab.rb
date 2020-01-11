@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- my_hash={88:"Dale Earnhardt Jr"}
+ my_hash={88: "Dale Earnhardt Jr"}
 end
 
 def pioneer
